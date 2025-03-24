@@ -51,8 +51,4 @@
 > "The only way to do great work is to love what you do." – Steve Jobs  
 > "Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill
 
----
-
-## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=TechTirth&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
