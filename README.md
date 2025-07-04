@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/tirth-vanparia-128592215/" target="_blank">
